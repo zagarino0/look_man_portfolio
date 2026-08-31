@@ -1,0 +1,36 @@
+project/
+│
+├── index.html
+├── project.html
+├── firebase.json
+│
+├── css/
+│   ├── style.css
+│   ├── gallery.css
+│   ├── modal.css
+│   ├── animations.css
+│   └── responsive.css
+│
+├── js/
+│   ├── app.js
+│   ├── gallery.js
+│   ├── modal.js
+│   ├── animations.js
+│   ├── filters.js
+│   ├── loader.js
+│   └── firebase-config.js
+│
+├── admin/
+│   ├── login.html
+│   ├── dashboard.html
+│   ├── admin.css
+│   └── admin.js
+│
+├── assets/
+│   ├── images/
+│   ├── videos/
+│   ├── icons/
+│   └── loader/
+│
+└── data/
+    └── projects.json
